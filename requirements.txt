@@ -3,3 +3,4 @@ plotly
 streamlit-lottie
 pyqrcode
 opencv-python
+libgl1-mesa-glx
